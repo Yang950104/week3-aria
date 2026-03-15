@@ -1,14 +1,14 @@
 # 環境變數檔案
 .env
 
-# 原始資料檔案
-data/*.csv
-data/*.shp
-data/*.shx
-data/*.dbf
-data/*.prj
-data/*.cpg
-data/*.zip
+# 原始資料檔案 (暫時註解以允許上傳)
+# data/*.csv
+# data/*.shp
+# data/*.shx
+# data/*.dbf
+# data/*.prj
+# data/*.cpg
+# data/*.zip
 
 # Python 快取檔案
 __pycache__/
